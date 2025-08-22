@@ -1,0 +1,107 @@
+
+
+.image{
+     align-items: center;
+     justify-content: center;
+     display: flex;
+     padding: 20px;
+     border-radius: 50%;
+     box-shadow: 0cap;
+     
+}
+
+body{
+     padding: 20vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: rgb(39, 54, 62);
+     
+     
+}
+.card{
+     background-color: rgb(246, 251, 251);
+            height: 70vh;
+            width:  50vh;
+            border-radius: 17px;
+}
+
+.head h2{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.container{
+        display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 2px;
+}
+
+.facebook{
+       font-size: 1rem;
+     color: blue;
+}
+.instagram{
+       font-size: 1rem;
+       color: rgb(253, 90, 117);
+}
+.twitter{
+      font-size: 1rem;
+      color: rgb(13, 187, 255);
+}
+.youtube{
+      font-size: 1rem;
+      color: rgb(237, 30, 30);
+}
+
+.icon{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+}
+
+  .button{
+       display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+  }
+
+  .Subscribe{
+     background-color: rgb(6, 121, 235);
+     color: white;
+     border: none;
+     border-radius: 19px;
+     padding: 4px 17px;
+     width: 8rem;
+     height: 2rem;
+  }
+
+  .Message{
+     background-color: rgb(6, 121, 235);
+     color: white;
+     border-radius: 19px;
+     border: none;
+     padding: 4px 17px;
+     width: 8rem;
+     height: 2rem;
+  }
+
+  .btn{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 5rem;
+      margin: 12px;
+  }
+  .like{
+     color: red;
+  }
+  .comment{
+      color: blue;
+  }
